@@ -62,6 +62,6 @@ Co-Founder & CTO
 
 ## BONUS
 
-Get our attention by submitting your application written in Markdown as a pull request to our repository on GitHub. Please create a folder with your Github username under `applications` and place your application named `README.md` in that, along with any other data you think is relevant to us (e.g. sample work/code, but could be something entirely different).
+Get our attention by submitting your application written in Markdown as a pull request to our repository on GitHub. Please create a folder with your Github username under `applications` and place your application named `README.md` in that, along with any other data you think is relevant to us e.g. sample work/code, but could be something entirely different. However, you should email any sensitive data instead of committing them to your pull request.
 
 :beers:
