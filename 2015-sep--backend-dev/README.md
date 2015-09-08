@@ -1,4 +1,4 @@
-# Great Backend Developer With Love For Media Content
+# Great Backend Developer With Passion For Visuals
 
 At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace connecting creatives with customers. With three interesting revenue streams, we aim to capture the industry by storm. But we need your help!
 
@@ -28,14 +28,15 @@ You will have the responsibility of designing solutions to features and problems
 
 *It's great if;*
 
+* You have experience in working with visual/media content (images and videos) i.e. storing, transcoding, encoding, scaling, cropping, compression, streaming etc.
 * You have experience with Elasticsearch
-* You're familiar with or have been using Amazon Web Services and perhaps their product OpsWorks (or Chef)
+* You're familiar with or have been using Amazon Web Services and perhaps their product OpsWorks (and/or Chef)
 * You have experience in working with message queues and distributed systems
 * You've worked with Redis
 * You're familiar or worked with NancyFX
 * You've worked with Protocol Buffers and/or Message Pack
 * You've been trying out ASP.NET 5
-* You've been using ScriptCS or can build scripts in other languages (PowerShell, bash etc)
+* You've been using ScriptCS and/or can build scripts in other languages (e.g. bash or similar)
 * You have experience in working with Grunt and Gulp
 * You like and perhaps even contributes to open source
 * You can speak Danish (don't worry, everyone must speak English at work)
