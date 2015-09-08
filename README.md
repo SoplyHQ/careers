@@ -6,8 +6,8 @@ Submit your application written in Markdown as a pull request to this repository
 
 ## Open Positions
 
-* [Great Frontend Developer With Amazing UI/UX Skills](https://github.com/SoplyHQ/careers/2015-sep--frontend-dev)
-* [Great Backend Developer With Love For Media Content](https://github.com/SoplyHQ/careers/2015-sep--backend-dev)
+* [Great Frontend Developer With Amazing UI/UX Skills](https://github.com/SoplyHQ/careers/tree/master/2015-sep--frontend-dev)
+* [Great Backend Developer With Love For Media Content](https://github.com/SoplyHQ/careers/tree/master/2015-sep--backend-dev)
 
 Feel free to apply even if there isn't any open positions that match you.
 
