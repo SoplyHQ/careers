@@ -1,6 +1,6 @@
 # We're Hiring
 
-At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace for creatives. With three interesting revenue streams, we aim to capture the industry by storm. Therefore we're always looking for talented employees!
+At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace connecting creatives with customers. With three interesting revenue streams, we aim to capture the industry by storm. Therefore we're always looking for talented employees!
 
 Submit your application written in Markdown as a pull request to this repository. Please create a folder with your Github username under `applications` and place your application named `README.md` in that, along with any other data you think is relevant to us (e.g. sample work/code, but it could be something entirely different).
 

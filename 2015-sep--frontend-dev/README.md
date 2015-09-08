@@ -1,6 +1,6 @@
 # Great Frontend Developer With Amazing UI/UX Skills
 
-At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace for creatives. With three interesting revenue streams, we aim to capture the industry by storm. But we need your help!
+At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace connecting creatives with customers. With three interesting revenue streams, we aim to capture the industry by storm. But we need your help!
 
 Therefore we are looking to hire a person that can build — in collaboration with the rest of the team — a beautiful UI and a great user experience for our products and services, leveraging the vast amount of visual content we already have on the platform.
 

@@ -1,6 +1,6 @@
 # Great Backend Developer With Love For Media Content
 
-At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace for creatives. With three interesting revenue streams, we aim to capture the industry by storm. But we need your help!
+At [Soply](https://soply.com) we're on a mission to create the ultimate marketplace connecting creatives with customers. With three interesting revenue streams, we aim to capture the industry by storm. But we need your help!
 
 Therefore we are looking to hire a person that can help build — in collaboration with the rest of the team — a fast and robust backend for our products and services, which can handle a high traffic load and a huge amount of media content.
 
