@@ -62,3 +62,5 @@ Co-Founder & CTO
 Get our attention by submitting your application written in Markdown as a pull request to our repository on GitHub. Please create a folder with your Github username under `applications` and place your application named `README.md` in that, along with any other data you think is relevant to us e.g. sample work/code, but could be something entirely different. **However, you should email any sensitive data instead of committing them to your pull request**.
 
 :beers:
+
+[![Google Analytics](https://ga-beacon.appspot.com/UA-38986053-3/careers/2015-sep--frontend-dev?pixel)](#ga)

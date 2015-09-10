@@ -30,3 +30,5 @@ Co-Founder & CTO
 [mikkel@soply.com](mailto:mikkel@soply.com)
 
 :beers:
+
+[![Google Analytics](https://ga-beacon.appspot.com/UA-38986053-3/careers?pixel)](#ga)
